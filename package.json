@@ -1,0 +1,23 @@
+{
+  "name": "wiremock-reload",
+  "version": "0.0.1",
+  "description": "Reload wiremock json mappings from given directory on the fly",
+  "main": "index.js",
+  "bin": "index.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garyxuehong/wiremock-reload.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garyxuehong/wiremock-reload/issues"
+  },
+  "homepage": "https://github.com/garyxuehong/wiremock-reload#readme"
+}
