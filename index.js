@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 if (process.argv.length < 4) {
     console.info("Usage: wiremock-reload ${WIREMOCK_HOSTNAME} ${WIREMOCK_PORT} ${MAPPING_JSON_DIR}")
     process.exit(1);
