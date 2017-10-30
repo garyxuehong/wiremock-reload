@@ -1,6 +1,6 @@
 {
   "name": "wiremock-reload",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reload wiremock json mappings from given directory on the fly",
   "main": "index.js",
   "bin": "index.js",
